@@ -7,7 +7,7 @@ export const getUsers = async (page, limit = 3) => {
     const { data } = await axios.get(`/users?page=${page}&limit=${limit}`);
     return data;
   } catch (error) {
-    return error.message;
+    console.log(error);
   }
 };
 
@@ -19,6 +19,6 @@ export const updateTweets = async (Id, followers, following) => {
     });
     return data;
   } catch (error) {
-    return error.message;
+    console.log(error);
   }
 };
