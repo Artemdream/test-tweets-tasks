@@ -4,7 +4,7 @@
 
 ###
 
-![requirmentsImg](https://github.com/Artemdream/test-tweets-tasks/blob/master/src/images/cards.png)
+![requirmentsImg](https://github.com/Artemdream/test-tweets-tasks/blob/master/src/images/cards.jpeg)
 
 ###
 
@@ -55,8 +55,8 @@
 ];
 ```
 
-
 # Додаткове завдання
+
 -За виконання вам будуть нараховані додаткові бали! Без виконання додаткового завдання ви не зможете отримати максимальний бал.
 
 ###
@@ -67,4 +67,5 @@
 ###
 
 ### Завдання із зірочкою
+
 Додай фільтрацію. Це має бути Dropdown із 3 опціями(оформлення на ваш розсуд): show all, follow, followings show all - показати всі твіти. follow - показати твіти, у яких стан follow. followings - показати твіти, у яких стан following
