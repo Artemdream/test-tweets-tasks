@@ -77,9 +77,9 @@ export const Tweets = () => {
     }
   });
 
-  const handleFilterChange = useCallback((filterValue) => {
+  const handleFilterChange = (filterValue) => {
     setFilter(filterValue);
-  }, []);
+  };
 
   const handleLoadMore = () => {
     setPage((pervPage) => pervPage + 1);
