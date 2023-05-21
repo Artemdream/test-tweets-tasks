@@ -4,7 +4,7 @@
 
 ###
 
-![requirmentsImg]()
+![requirmentsImg](https://github.com/Artemdream/test-tweets-tasks/blob/master/src/images/BGC.png)
 
 ###
 
