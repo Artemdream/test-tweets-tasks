@@ -10,6 +10,6 @@ export const Section = styled.div`
 
 export const Bacground = styled.img`
   position: absolute;
-  left: 25%;
-  top: 50%;
+ left: 25vh;
+  top: 10vh;
 `;
