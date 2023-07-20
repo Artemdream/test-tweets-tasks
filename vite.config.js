@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react-swc";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/test-tweets-tasks",
+  base: "/test-tweets-tasks/",
   // server: {
   //   open: "/test-tweets-tasks",
   // },
